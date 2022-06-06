@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Solidity**
 
-- 💬 Ask me about **react, Javascript, CSS, Bootstrap**
+- 💬 Ask me about **React, Javascript, CSS, Bootstrap, Wordpress **
 
 - 📫 How to reach me **codevela@protonmail.com**
 
