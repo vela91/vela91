@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Vela</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on [321ignition Company](https://www.321ignition.com/)
+- 🔭 I’m currently working on [Comiral Company](https://www.comiral.com/)
 
 - 🌱 I’m currently learning **Nextjs, Solidity**
 
-- 💬 Ask me about **React, Javascript, CSS, Bootstrap, Wordpress **
+- 💬 Ask me about **React, Javascript, CSS, Bootstrap, WordPress **
 
 - 📫 How to reach me **codevela@protonmail.com**
 
