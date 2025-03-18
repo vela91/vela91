@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Vela</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on [Comiral Company](https://www.comiral.com/)
+- 🔭 I’m currently working on [Sicma21](https://www.sicma21.com/)
 
 - 🌱 I’m currently learning **Nextjs, Solidity**
 
